@@ -1,7 +1,7 @@
 # wats4000-development-environment-setup
 An assignment designed to establish a local development environment based on Node.js, Yeoman, Bower and Grunt.
 
-Basic Requirements
+<b>Basic Requirements</b>
 
 -Establish a development environment you can use throughout the quarter to build your webapp.
 
@@ -15,7 +15,7 @@ Basic Requirements
 
 -Call attention to what changes were made in your assignment submission.
 
-Stretch Goals
+<b>Stretch Goals</b>
 
 -Experiment with changes to styles.
 
